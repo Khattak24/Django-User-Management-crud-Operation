@@ -1,0 +1,5 @@
+django
+djangorestframework
+djangorestframework-jsonapi
+django-filter
+djangorestframework-simplejwt
